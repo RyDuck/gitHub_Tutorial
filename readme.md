@@ -1,5 +1,6 @@
 # Git 和 GitHub 详解
-
+## [黑马手把手csdn图文教程](https://blog.csdn.net/qq_41961239/article/details/103935110) 
+## [黑马Bilibili](https://www.bilibili.com/video/BV1sJ411D7xN?vd_source=162cea68cf6c174c36fa21a765401950)
 ## （一）Git 基础
 
 ### Git 下载和安装
